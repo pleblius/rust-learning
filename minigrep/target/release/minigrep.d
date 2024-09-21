@@ -1,0 +1,1 @@
+C:\Users\and1i\Desktop\Homework\Resume\ Stuff\Learning\Rust\minigrep\target\release\minigrep.exe: C:\Users\and1i\Desktop\Homework\Resume\ Stuff\Learning\Rust\minigrep\src\lib.rs C:\Users\and1i\Desktop\Homework\Resume\ Stuff\Learning\Rust\minigrep\src\main.rs
